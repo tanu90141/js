@@ -1,0 +1,15 @@
+//let m='tanu/s/harma';
+//let lastcharacter=m.length-1;
+//console.log(lastcharacter);
+//console.log(m.charCodeAt(lastcharacter));
+//console.log(m.charCodeAt(11));
+//let m="tanu sharma";
+//let j="jay prakash";
+//console.log(m.toUpperCase());
+//console.log(j.toUpperCase());
+//console.log(m+j);
+//console.log(m.concat(j));
+//let a=new Date();
+console.log(new Date().toString());
+console.log(new Date().toLocaleString());
+console.log(Date.now());
